@@ -8,6 +8,7 @@ $ cd ssh-pk-fmt
 $ sudo cp formatter.py /usr/bin/sshfix 
 $ sshfix --help
 ```
+Or just run `setup.sh` file.
 
 
 ## 📈 Usage
